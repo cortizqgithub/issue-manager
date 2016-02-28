@@ -1,0 +1,25 @@
+{
+  "name": "issue-manager",
+  "description": "Learning Spring Boot - Issue Manager",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "Greg Turnquist <gturnquist@pivotal.io>"
+  ],
+  "license": "MIT",
+  "homepage": "http://blog.greglturnquist.com/category/learning-spring-boot",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/public/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-mobile-bower": "~1.4.5"
+  }
+}
