@@ -156,4 +156,7 @@ $RECYCLE.BIN/
 
 # Ignore this project
 .gradle
+.classpath
+.project
+.settings
 src/main/resources/public/
